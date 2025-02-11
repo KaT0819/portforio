@@ -10,7 +10,7 @@
           <div class="col-sm-4">
               <div class="breadcrumbs">
                   <ul>
-                      <li><a href="#">ホーム</a></li>
+                      <li><a href="/">ホーム</a></li>
                       <li>ブログ詳細</li>
                   </ul>
               </div>

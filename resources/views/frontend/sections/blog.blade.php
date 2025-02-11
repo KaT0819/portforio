@@ -70,7 +70,7 @@
               <img src="{{ asset('frontend/assets/images/blog-5.jpg') }}" alt="">
             </figure>
             <div class="blog-content">
-              <h3 class="title"><a href="blog-details.html">機会を待たないで。自ら作り出す。</a></h3>
+              <h3 class="title"><a href="/blog-details">機会を待たないで。自ら作り出す。</a></h3>
               <div class="desc">
                 <p>チャンスを自ら作り出すための方法を探ります。</p>
               </div>
@@ -83,7 +83,7 @@
               <img src="{{ asset('frontend/assets/images/blog-6.jpg') }}" alt="">
             </figure>
             <div class="blog-content">
-              <h3 class="title"><a href="blog-details.html">限界はあなたの想像力だけ。</a></h3>
+              <h3 class="title"><a href="/blog-details">限界はあなたの想像力だけ。</a></h3>
               <div class="desc">
                 <p>創造力を活かして限界を超える方法を考えます。</p>
               </div>
