@@ -48,18 +48,14 @@
 
         </ul>
       </li>
-      <li class="menu-header">Starter</li>
-
-      <li><a class="nav-link" href="blank.html"><i class="far fa-square"></i> <span>Blank Page</span></a></li>
-      <li><a class="nav-link" href="features-post-create.html"><i class="far fa-square"></i> <span>Form Page</span></a>
+      <li class="menu-header">セクション</li>
+      <li class="nav-item dropdown">
+        <a href="#" class="nav-link has-dropdown" data-toggle="dropdown"><i class="fas fa-columns"></i>
+          <span>ヒーロー</span></a>
+        <ul class="dropdown-menu" style="display: none;">
+          <li><a class="nav-link" href="{{route('admin.hero.index')}}">ヒーローセクション</a></li>
+        </ul>
       </li>
-
-      <li><a class="nav-link" href="{{ route('profile.edit') }}"><i class="far fa-square"></i> <span>プロフィール</span></a></li>
-
-      <li><a class="nav-link" href="{{ route('login') }}"><i class="far fa-square"></i> <span>ログイン</span></a></li>
-      <li><a class="nav-link" href="{{ route('register') }}"><i class="far fa-square"></i> <span>ユーザ登録</span></a></li>
-      <li><a class="nav-link" href="{{ route('password.request') }}"><i class="far fa-square"></i> <span>パスワード再設定</span></a></li>
-
     </ul>
   </aside>
 </div>
