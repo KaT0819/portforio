@@ -27,7 +27,7 @@
         <li class="nav-item">
           <a class="nav-link" href="#blog-page">ブログ <i class="fas fa-angle-down"></i></a>
           <ul class="sub_menu">
-            <li><a href="blog.html">ブログ一覧</a></li>
+            <li><a href="/blog">ブログ一覧</a></li>
           </ul>
         </li>
         <li class="nav-item">
