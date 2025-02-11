@@ -20,8 +20,8 @@
         <ul class="nav-menu">
           <li><a href="#">ホーム</a></li>
           <li><a href="#">私について</a></li>
-          <li><a href="#">ポートフォリオ</a></li>
-          <li><a href="#">ブログ</a></li>
+          <li><a href="/portfolio">ポートフォリオ</a></li>
+          <li><a href="/blog">ブログ</a></li>
         </ul>
       </div>
       <div class="col-md-4 col-lg-3 widget">
@@ -48,7 +48,7 @@
       <div class="row">
         <div class="col-12">
           <div class="copyright">
-            <p>Copyright 2025 <span>K2O</span>. All Rights Reserved.</p>
+            <p>Copyright 2025 <span>K2O System.inc</span>. All Rights Reserved.</p>
             <p>Powered by WebSolutionUS &nbsp; | &nbsp; 2022 - 2023</p>
           </div>
         </div>

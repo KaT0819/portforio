@@ -30,7 +30,7 @@
             </figure>
             <div class="portfolio-content">
               <a href="{{ asset('frontend/assets/images/portfolio-1.jpg') }}" data-lity class="icon"><i class="fas fa-plus"></i></a>
-              <h4 class="title"><a href="portfolio-details.html">ブラックゴールデン</a></h4>
+              <h4 class="title"><a href="/portfolio-details">ブラックゴールデン</a></h4>
               <div class="desc">
                 <p>このプロジェクトは、革新的なデザインとエレガントなスタイルを融合させています。</p>
               </div>
@@ -44,7 +44,7 @@
             </figure>
             <div class="portfolio-content">
               <a href="{{ asset('frontend/assets/images/portfolio-2.jpg') }}" data-lity class="icon"><i class="fas fa-plus"></i></a>
-              <h4 class="title"><a href="portfolio-details.html">フィッツジェラルド・スタントン</a></h4>
+              <h4 class="title"><a href="/portfolio-details">フィッツジェラルド・スタントン</a></h4>
               <div class="desc">
                 <p>ユーザー中心のインターフェースデザインで、使いやすさを追求しました。</p>
               </div>
@@ -58,7 +58,7 @@
             </figure>
             <div class="portfolio-content">
               <a href="{{ asset('frontend/assets/images/portfolio-3.jpg') }}" data-lity class="icon"><i class="fas fa-plus"></i></a>
-              <h4 class="title"><a href="portfolio-details.html">イネス・キャンベル</a></h4>
+              <h4 class="title"><a href="/portfolio-details">イネス・キャンベル</a></h4>
               <div class="desc">
                 <p>ブランドの個性を引き立てるデザインを提供しています。</p>
               </div>
@@ -72,7 +72,7 @@
             </figure>
             <div class="portfolio-content">
               <a href="{{ asset('frontend/assets/images/portfolio-4.jpg') }}" data-lity class="icon"><i class="fas fa-plus"></i></a>
-              <h4 class="title"><a href="portfolio-details.html">ウェンディ・マイケル</a></h4>
+              <h4 class="title"><a href="/portfolio-details">ウェンディ・マイケル</a></h4>
               <div class="desc">
                 <p>ユーザー体験を向上させるためのインターフェースデザインです。</p>
               </div>
@@ -86,7 +86,7 @@
             </figure>
             <div class="portfolio-content">
               <a href="{{ asset('frontend/assets/images/portfolio-5.jpg') }}" data-lity class="icon"><i class="fas fa-plus"></i></a>
-              <h4 class="title"><a href="portfolio-details.html">ゲレロ・ウッダード</a></h4>
+              <h4 class="title"><a href="/portfolio-details">ゲレロ・ウッダード</a></h4>
               <div class="desc">
                 <p>デザインと開発の両面で優れた成果を上げています。</p>
               </div>
@@ -100,7 +100,7 @@
             </figure>
             <div class="portfolio-content">
               <a href="{{ asset('frontend/assets/images/portfolio-6.jpg') }}" data-lity class="icon"><i class="fas fa-plus"></i></a>
-              <h4 class="title"><a href="portfolio-details.html">プリンス・フェルプス</a></h4>
+              <h4 class="title"><a href="/portfolio-details">プリンス・フェルプス</a></h4>
               <div class="desc">
                 <p>直感的で魅力的なインターフェースを提供します。</p>
               </div>
@@ -114,7 +114,7 @@
             </figure>
             <div class="portfolio-content">
               <a href="{{ asset('frontend/assets/images/portfolio-7.jpg') }}" data-lity class="icon"><i class="fas fa-plus"></i></a>
-              <h4 class="title"><a href="portfolio-details.html">ゲイル・ゲインズ</a></h4>
+              <h4 class="title"><a href="/portfolio-details">ゲイル・ゲインズ</a></h4>
               <div class="desc">
                 <p>最新技術を駆使したウェブ開発プロジェクトです。</p>
               </div>
@@ -128,7 +128,7 @@
             </figure>
             <div class="portfolio-content">
               <a href="{{ asset('frontend/assets/images/portfolio-8.jpg') }}" data-lity class="icon"><i class="fas fa-plus"></i></a>
-              <h4 class="title"><a href="portfolio-details.html">ジャニス・ワイルダー</a></h4>
+              <h4 class="title"><a href="/portfolio-details">ジャニス・ワイルダー</a></h4>
               <div class="desc">
                 <p>ユーザーエクスペリエンスを重視したデザインです。</p>
               </div>
@@ -142,7 +142,7 @@
             </figure>
             <div class="portfolio-content">
               <a href="{{ asset('frontend/assets/images/portfolio-9.jpg') }}" data-lity class="icon"><i class="fas fa-plus"></i></a>
-              <h4 class="title"><a href="portfolio-details.html">ブランディングデザイン</a></h4>
+              <h4 class="title"><a href="/portfolio-details">ブランディングデザイン</a></h4>
               <div class="desc">
                 <p>ブランドの価値を高めるためのデザインソリューションです。</p>
               </div>

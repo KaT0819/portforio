@@ -30,7 +30,7 @@
               <img src="{{ asset('frontend/assets/images/blog-1.jpg') }}" alt="">
             </figure>
             <div class="blog-content">
-              <h3 class="title"><a href="blog-details.html">朝の光が紡ぐ物語</a></h3>
+              <h3 class="title"><a href="/blog-details">朝の光が紡ぐ物語</a></h3>
               <div class="desc">
                 <p>静かな朝の空気の中、新たな一日の希望と出会う瞬間を大切に綴りました。</p>
               </div>
@@ -45,7 +45,7 @@
               <img src="{{ asset('frontend/assets/images/blog-2.jpg') }}" alt="">
             </figure>
             <div class="blog-content">
-              <h3 class="title"><a href="blog-details.html">雨上がりの道で出会う奇跡</a></h3>
+              <h3 class="title"><a href="/blog-details">雨上がりの道で出会う奇跡</a></h3>
               <div class="desc">
                 <p>しとしと降る雨が止んだ後、静寂の中に浮かぶ小さな奇跡を感じた一瞬の記録です。</p>
               </div>
@@ -60,7 +60,7 @@
               <img src="{{ asset('frontend/assets/images/blog-3.jpg') }}" alt="">
             </figure>
             <div class="blog-content">
-              <h3 class="title"><a href="blog-details.html">風に舞う季節の記憶</a></h3>
+              <h3 class="title"><a href="/blog-details">風に舞う季節の記憶</a></h3>
               <div class="desc">
                 <p>秋風が運ぶ懐かしい記憶とともに、かすかな切なさをそっと描いた物語です。</p>
               </div>
@@ -75,7 +75,7 @@
               <img src="{{ asset('frontend/assets/images/blog-4.jpg') }}" alt="">
             </figure>
             <div class="blog-content">
-              <h3 class="title"><a href="blog-details.html">月明かりに浮かぶ夢の欠片</a></h3>
+              <h3 class="title"><a href="/blog-details">月明かりに浮かぶ夢の欠片</a></h3>
               <div class="desc">
                 <p>澄み渡る夜空に照らされた月の光が、忘れかけた夢と希望をそっと呼び覚ますひとときです。</p>
               </div>
@@ -90,7 +90,7 @@
               <img src="{{ asset('frontend/assets/images/blog-5.jpg') }}" alt="">
             </figure>
             <div class="blog-content">
-              <h3 class="title"><a href="blog-details.html">星降る夜に紡ぐ願い</a></h3>
+              <h3 class="title"><a href="/blog-details">星降る夜に紡ぐ願い</a></h3>
               <div class="desc">
                 <p>煌びやかな星空の下、一つ一つの願いが未来への輝きを放つ夜の物語です。</p>
               </div>
@@ -105,7 +105,7 @@
               <img src="{{ asset('frontend/assets/images/blog-6.jpg') }}" alt="">
             </figure>
             <div class="blog-content">
-              <h3 class="title"><a href="blog-details.html">静寂の中で輝く自分らしさ</a></h3>
+              <h3 class="title"><a href="/blog-details">静寂の中で輝く自分らしさ</a></h3>
               <div class="desc">
                 <p>喧騒から離れ、一息ついたその時に見えてくる、本当に大切な自分自身の声を記しました。</p>
               </div>

@@ -5,8 +5,8 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Rabins | 個人ポートフォリオHTMLテンプレート</title>
-  <link rel="shortcut icon" type="image/ico" href="images/favicon.png" />
+  <title>K2Oシステム | 個人ポートフォリオHTMLテンプレート</title>
+  <link rel="shortcut icon" type="image/ico" href="{{ asset('frontend/assets/images/favicon.png')}}" />
   <link rel="stylesheet" href="{{ asset('frontend/assets/css/bootstrap.min.css') }}">
   <link rel="stylesheet" href="{{ asset('frontend/assets/css/normalize.css') }}">
   <link rel="stylesheet" href="{{ asset('frontend/assets/css/style-plugin-collection.css') }}">

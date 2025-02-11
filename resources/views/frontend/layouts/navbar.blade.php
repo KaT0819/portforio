@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg main_menu" id="main_menu_area">
   <div class="container">
-    <a class="navbar-brand" href="index.html">
-      <img src="{{ asset('frontend/assets/images/logo.png') }}" alt="Rabins">
+    <a class="navbar-brand" href="https://site.k2osystem.net/">
+      <img src="{{ asset('frontend/assets/images/logo.png') }}" alt="K2Oシステム">
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
       aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -18,7 +18,7 @@
         <li class="nav-item">
           <a class="nav-link" href="#portfolio-page">ポートフォリオ <i class="fas fa-angle-down"></i></a>
           <ul class="sub_menu">
-            <li><a href="portfolio.html">ポートフォリオ一覧</a></li>
+            <li><a href="/portfolio">ポートフォリオ一覧</a></li>
           </ul>
         </li>
         <li class="nav-item">
